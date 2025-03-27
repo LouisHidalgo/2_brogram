@@ -30,7 +30,7 @@ export default function Hero() {
             and 85% of your working weight used for the last two sets.
         </small>
         <h3>The Training Plan</h3>
-        <p>This training plan uses a structure know as the 
+        <p>This training plan uses a structure known as the  
             <b>Bro Split</b>, and follows this rotation ⬇ </p>
             <p><b><i>Push &rarr; Pull &rarr; Legs &rarr; Repeat</i></b></p>
             <p>Complete all of the workouts below and track your progress along the way ✔ </p>
